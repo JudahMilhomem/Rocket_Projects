@@ -1,0 +1,24 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "project config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudahMilhomem/Rocket_Projects.git"
+  },
+  "keywords": [],
+  "author": "Judah_Milhomem <judahmilhomem2001@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JudahMilhomem/Rocket_Projects/issues"
+  },
+  "homepage": "https://github.com/JudahMilhomem/Rocket_Projects#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
